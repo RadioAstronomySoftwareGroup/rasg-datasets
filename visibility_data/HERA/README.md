@@ -1,6 +1,6 @@
 # HERA visibility data
 
-## zen.2457698.40355.xx.HH.uvcAA
+## zen.2457698.40355.xx.HH.uvcAA.tar.gz
 
 Observation date: November 05, 2016
 processed/edited by pyuvdata: yes
@@ -49,7 +49,7 @@ used for testing the phasing fix code.
 A small numpy file holding old (less correct) calculated w's for zen.2458661.23480.HH.uvh5,
 used for testing the phasing fix code.
 
-## hera_fhd_vis_data
+## hera_fhd_vis_data.tar.gz
 
 Observation date: September 29, 2020
 processed/edited by pyuvdata: yes

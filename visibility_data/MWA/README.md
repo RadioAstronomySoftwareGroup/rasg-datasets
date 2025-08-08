@@ -13,7 +13,7 @@ A small numpy file holding the nearfield phased w's for 1061316296.uvfits used
 for testing the nearfield phasing code.
 
 
-## fhd_vis_data
+## fhd_vis_data.tar.gz
 
 Observation date: August 23, 2013
 processed/edited by pyuvdata: maybe
@@ -22,14 +22,14 @@ Converted to a uvfits by Cotter. Possibly downselected using pyuvdata, then
 processed and written out with FHD. Contains some extra, modified copies of files
 with various changes for code coverage.
 
-## 1090008640_birli.ms
+## 1090008640_birli.ms.tar.gz
 
 Observation date: July 21, 2014
 processed/edited by pyuvdata: No
 Notes: Written to MWA correlator FITS files by the MWA correlator (legacy).
 Converted to a measurement set by birli.
 
-## 1102865728_small.ms
+## 1102865728_small.ms.tar.gz
 
 Observation date: December 17, 2014
 processed/edited by pyuvdata: No

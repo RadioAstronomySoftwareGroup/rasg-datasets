@@ -6,7 +6,7 @@ Observation date: April 26, 2010
 processed/edited by pyuvdata: No
 Notes: From the CASA tutorial.
 
-## day2_TDEM0003_10s_norx_1src_1spw.ms
+## day2_TDEM0003_10s_norx_1src_1spw.ms.tar.gz
 
 Observation date: April 26, 2010
 processed/edited by pyuvdata: No

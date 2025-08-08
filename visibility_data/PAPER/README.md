@@ -1,6 +1,6 @@
 # PAPER visibility data
 
-## new.uvA
+## new.uvA.tar.gz
 
 Observation date: September 30, 2012
 processed/edited by pyuvdata: No
@@ -16,7 +16,7 @@ Notes: Written to miriad file format by PAPER correlator. Downselected to all
 instances of a single redundant baseline using aipy. Downselected and written
 out with pyuvdata v1.3.7.
 
-## test_miriad_changing_extra.uv
+## test_miriad_changing_extra.uv.tar.gz
 
 Observation date: March 03, 2013
 processed/edited by pyuvdata: No
@@ -24,7 +24,7 @@ Notes: Written to miriad file format by PAPER correlator. Processed using PAPER
 analysis stack (based on aipy). Downselected using aipy.
 
 
-## zen.2456865.60537.xy.uvcRREAA
+## zen.2456865.60537.xy.uvcRREAA.tar.gz
 
 Observation date: July 27, 2014
 processed/edited by pyuvdata: No
@@ -37,7 +37,7 @@ processed/edited by pyuvdata: No
 Notes: Originally written as a miriad file by the PAPER correlator. Converted
 to uvfits (via miriad package??).
 
-## zen.2456865.60537.xy.uvcRREAAM.ms
+## zen.2456865.60537.xy.uvcRREAAM.ms.tar.gz
 
 Observation date: July 27, 2014
 processed/edited by pyuvdata: No

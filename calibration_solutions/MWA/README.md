@@ -1,6 +1,6 @@
 # MWA calibration solutions
 
-## fhd_cal_data
+## fhd_cal_data.tar.gz
 
 Observation date: August 23, 2013
 processed/edited by pyuvdata: No

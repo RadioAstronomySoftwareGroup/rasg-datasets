@@ -1,6 +1,6 @@
 # SMA visibility data
 
-## sma_test.mir
+## sma_test.mir.tar.gz
 
 Observation date: July 24, 2020
 processed/edited by pyuvdata: No
